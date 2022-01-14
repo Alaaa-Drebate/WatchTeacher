@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/my_account"
+        android:icon="@drawable/ic_my_account"
+        android:title="@string/my_account" />
+
+    <item
+        android:id="@+id/teachers"
+        android:icon="@drawable/ic_teacher"
+        android:title="@string/teachers_list" />
+
+    <item
+        android:id="@+id/placeholder"
+        android:title="" />
+
+    <item
+        android:id="@+id/map"
+        android:icon="@drawable/ic_map"
+        android:title="@string/watch" />
+
+    <item
+        android:id="@+id/report_problem"
+        android:icon="@drawable/ic_problem"
+        android:title="@string/report_problems"/>
+
+</menu>

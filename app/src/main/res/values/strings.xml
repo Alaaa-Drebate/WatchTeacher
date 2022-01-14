@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">WatchTeacher</string>
+
+    <string name="manager_key" translatable="false">12345</string>
+
+    <string name="register">REGISTER</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+    <string name="name_hint">Name</string>
+    <string name="hint_mobile_number">Phone number</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+    <string name="add_school_location">Add school location</string>
+    <string name="is_this_your_school_location">are you at the organization right now?</string>
+    <string name="location_confirmation_message">please confirm if this is your school location so we add it\'s coordinates to our database and start reporting your employees attending state</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="my_account">my account</string>
+    <string name="teachers_list">Teachers</string>
+    <string name="watch">Watch</string>
+    <string name="recordings">Recordings</string>
+    <string name="add_new_teacher">Add new teacher</string>
+    <string name="save">Save</string>
+    <string name="profile_name">Name</string>
+    <string name="profile_mobile">Mobile</string>
+    <string name="profile_personal">Personal email</string>
+    <string name="edit">Edit</string>
+    <string name="edit_your_profile">Edit your profile</string>
+    <string name="search_teacher">Search teacher</string>
+    <string name="report_problems">Report Bug</string>
+    <string name="send_report">Send problem report</string>
+    <string name="hint_report">Problem details</string>
+    <string name="title">Title</string>
+    <string name="send">Send</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="got_out_of_school">Got out of school during work hours</string>
+    <string name="my_reports">my reports</string>
+    <string name="enter_manager_key">Enter Manager Key</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit_teacher_profile">Edit Teacher\'s profile</string>
+    <string name="edit_teacher_info">Edit Teacher\'s info</string>
+    <string name="delete_teacher">Delete Teacher\'s profile</string>
+
+
+
+
+
+
+<!--    for testing -->
+    <string name="huawei_title">Huawei Permission Request</string>
+    <string name="huawei_text">Allow app to listen to incoming messages</string>
+    <string name="go_to_protected">Go to Protected Apps</string>
+    <string name="SHARED_PREF" translatable="false">APP_SHARED_PREF</string>
+    <string name="PREF_IS_PROTECTED_APPS" translatable="false">PREF_IS_PROTECTED_APPS</string>
+    <string name="notification_channel_id">1234567890</string>
+    <string name="notification_title">title</string>
+    <string name="cancel_download">cancel</string>
+    <string name="logout">Logout</string>
+    <string name="update_location">update school location</string>
+</resources>

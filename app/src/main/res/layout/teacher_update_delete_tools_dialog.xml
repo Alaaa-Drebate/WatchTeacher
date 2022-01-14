@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/edit_btn"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+        android:text="@string/edit_teacher_info"
+        android:background="@android:color/holo_green_light"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:id="@+id/delete_btn"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:text="@string/delete_teacher"
+        android:padding="16dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+        android:background="@android:color/holo_red_light"
+        android:textColor="@android:color/white"/>
+
+</LinearLayout>
